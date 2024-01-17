@@ -3,7 +3,7 @@ module github.com/phlg/s3-operator-downgrade
 go 1.21
 
 require (
-	github.com/minio/madmin-go/v3 v3.0.34
+	github.com/minio/madmin-go/v3 v3.0.39
 	github.com/minio/minio-go/v7 v7.0.64
 	github.com/onsi/ginkgo/v2 v2.11.0
 	github.com/onsi/gomega v1.27.10

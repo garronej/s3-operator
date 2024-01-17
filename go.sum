@@ -93,6 +93,8 @@ github.com/matttproud/golang_protobuf_extensions v1.0.4 h1:mmDVorXM7PCGKw94cs5zk
 github.com/matttproud/golang_protobuf_extensions v1.0.4/go.mod h1:BSXmuO+STAnVfrANrmjBb36TMTDstsz7MSK+HVaYKv4=
 github.com/minio/madmin-go/v3 v3.0.34 h1:MGPQYIWm52liSubofK24FhrznPYnRpQrDNddZJEyBPA=
 github.com/minio/madmin-go/v3 v3.0.34/go.mod h1:4QN2NftLSV7MdlT50dkrenOMmNVHluxTvlqJou3hte8=
+github.com/minio/madmin-go/v3 v3.0.39 h1:Q8ttgxj+U8ePsxACNm3Rlkga/km3PvcKjqEyjXBQgzk=
+github.com/minio/madmin-go/v3 v3.0.39/go.mod h1:4QN2NftLSV7MdlT50dkrenOMmNVHluxTvlqJou3hte8=
 github.com/minio/md5-simd v1.1.2 h1:Gdi1DZK69+ZVMoNHRXJyNcxrMA4dSxoYHZSQbirFg34=
 github.com/minio/md5-simd v1.1.2/go.mod h1:MzdKDxYpY2BT9XQFocsiZf/NKVtR7nkE4RoEpN+20RM=
 github.com/minio/minio-go/v7 v7.0.64 h1:Zdza8HwOzkld0ZG/og50w56fKi6AAyfqfifmasD9n2Q=
